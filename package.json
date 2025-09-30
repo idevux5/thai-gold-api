@@ -18,5 +18,13 @@
     "@types/node": "^24.6.0",
     "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/USERNAME/thai-gold-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/USERNAME/thai-gold-api/issues"
+  },
+  "homepage": "https://github.com/USERNAME/thai-gold-api#readme"
 }
